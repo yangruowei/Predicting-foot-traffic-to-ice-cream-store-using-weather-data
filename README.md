@@ -1,1 +1,1 @@
-# Predicting-foot-traffic-to-ice-cream-store-using-weather-data
+# Predicting foot traffic to ice cream store using weather data
